@@ -138,6 +138,7 @@ main {
   display: grid;
   text-align: center;
   color: #333;
+  margin-bottom: 5px;
 }
 
 .tutor1 .prog {
