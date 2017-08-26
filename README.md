@@ -1,5 +1,4 @@
-# NOME-DO-PROJETO
-Química Computacional  
+# Química Computacional  
 
 ## Descrição
 Consiste numa proposta de site sobre o software: Gaussian. O referido programa é utilizado em métodos computacionais tendo abrangência em diversas áreas, no entanto o foco do referido projeto, se aplica em específico para a área de Química Teórica.
