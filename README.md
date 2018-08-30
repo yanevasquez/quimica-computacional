@@ -9,6 +9,3 @@ Tem como finalidade dá suporte aos usuários do programa ou entusiastas que ten
 ## Inspiração
 Site: Learn Chemistry
 
-## Protótipos 
-
-## Screenshots
